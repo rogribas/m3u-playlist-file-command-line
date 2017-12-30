@@ -1,4 +1,4 @@
-# m3u-playlist-file-command-line-
+# m3u playlist file from command line
 
 Create a .m3u playlist file from the command line. (UNIX)
 
